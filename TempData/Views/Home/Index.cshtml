@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model TempData.Controllers.IndexViewModel
+<form asp-for="Index" method="post">
+    
+    <label>When this check box is checked, code will try to set TempData before returning the redirect response</label>
+    <input type="checkbox" asp-for="ShouldSetTempData"/>
+    <button type="submit">Go</button>
+</form>
