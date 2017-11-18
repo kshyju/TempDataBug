@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model TempData.Controllers.ModelBinderTestViewModel
+
+<h1>Modal binder issues</h1>
+<form asp-action="Create" method="post">
+
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" />
+    <button type="submit">Go</button>
+</form>
+
+<h4>Form with "Modal" as input</h4>
+<form asp-action="Create" method="post">
+
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" />
+    <label>Modal</label>
+
+    <input type="text" name="Model" />
+
+    <button type="submit">Go</button>
+</form>

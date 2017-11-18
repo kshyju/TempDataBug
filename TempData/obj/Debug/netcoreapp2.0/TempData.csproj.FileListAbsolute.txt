@@ -20,3 +20,14 @@ C:\temp\TempData\TempDataIssue\TempData\TempData\obj\Debug\netcoreapp2.0\TempDat
 C:\temp\TempData\TempDataIssue\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.AssemblyInfo.cs
 C:\temp\TempData\TempDataIssue\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.dll
 C:\temp\TempData\TempDataIssue\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.pdb
+C:\Shyju\OSS\TempData\TempData\bin\Debug\netcoreapp2.0\TempData.deps.json
+C:\Shyju\OSS\TempData\TempData\bin\Debug\netcoreapp2.0\TempData.runtimeconfig.json
+C:\Shyju\OSS\TempData\TempData\bin\Debug\netcoreapp2.0\TempData.runtimeconfig.dev.json
+C:\Shyju\OSS\TempData\TempData\bin\Debug\netcoreapp2.0\TempData.dll
+C:\Shyju\OSS\TempData\TempData\bin\Debug\netcoreapp2.0\TempData.pdb
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.csprojResolveAssemblyReference.cache
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.csproj.CoreCompileInputs.cache
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.AssemblyInfoInputs.cache
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.AssemblyInfo.cs
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.dll
+C:\Shyju\OSS\TempData\TempData\obj\Debug\netcoreapp2.0\TempData.pdb

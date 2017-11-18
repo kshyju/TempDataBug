@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\temp\\TempData\\TempDataIssue\\TempData\\TempData\\TempData.csproj",
+      "projectUniqueName": "C:\\Shyju\\OSS\\TempData\\TempData\\TempData.csproj",
       "projectName": "TempData",
-      "projectPath": "C:\\temp\\TempData\\TempDataIssue\\TempData\\TempData\\TempData.csproj",
+      "projectPath": "C:\\Shyju\\OSS\\TempData\\TempData\\TempData.csproj",
       "packagesPath": "C:\\Users\\skrishnankutty\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\TempData\\TempDataIssue\\TempData\\TempData\\obj\\",
+      "outputPath": "C:\\Shyju\\OSS\\TempData\\TempData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12560,6 +12560,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.urbanscience.net/nuget/C4-2.11": {},
         "http://nuget.urbanscience.net/nuget/FlexMatter": {},
         "http://nuget.urbanscience.net/nuget/FlexMatter-2.6": {},
         "http://nuget.urbanscience.net/nuget/General/": {},
@@ -12583,7 +12584,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
